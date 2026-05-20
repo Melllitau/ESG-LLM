@@ -20,17 +20,13 @@ accepted for publication at <a href="https://openreview.net/forum?id=EKp4ybPdmr"
 <h2 align="left"> BIBTEX </h2>
 
 ```
-@inproceedings{assis-etal-2026-esg,
-  title = {ESG-QA: Building a Dataset for Question Answering on Environmental, Social, and Governance Pillars},
-  author = {Assis, Gabriel and Surica, Ayrton and Kroll, Pedro and Mendes, Gabriela Aires and Rabbani, Darian and Bollis, Edson and Pellicer, Lucas Francisco Amaral Orosco and Paes, Aline},
-  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
-  month = {May},
-  year = {2026},
-  pages = {5377--5388},
-  address = {Palma, Mallorca, Spain},
-  publisher = {European Language Resources Association (ELRA)},
-  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
-  doi = {10.63317/23kmozdtq6yp},
+@inproceedings{
+    assis2026developing,
+    title={Developing an {ESG}-Oriented Large Language Model through {ESG} Practices},
+    author={Gabriel Assis and Ayrton Surica and Pedro Kroll and Gabriela Aires and Darian Rabbani and Edson Bollis and Lucas Pellicer and Aline Paes},
+    booktitle={The 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems},
+    year={2026},
+    url={https://openreview.net/forum?id=EKp4ybPdmr}
 }
 ```
 
